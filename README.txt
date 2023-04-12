@@ -1,1 +1,1 @@
-This repo contains individual and challenge code for the BMEN 415 Project and University of Calgary W2023
+This repo contains individual classification and regression model code for the BMEN 415 Project and University of Calgary W2023
